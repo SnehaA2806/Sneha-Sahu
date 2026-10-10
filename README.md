@@ -1,49 +1,87 @@
+<div align="center">
+
 # Sneha Sahu
-**Bioprocess & Biopharma R&D Aspirant**  
-📍 Bilaspur, Chhattisgarh, India | ✉️ ssneha.sahu28@gmail.com
+### 🧬 Bioprocess & Biopharma R&D Aspirant | Computational Biology Enthusiast
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Email-ssneha.sahu28%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ssneha.sahu28@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Bilaspur%2C%20India-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+
+<br/>
+
+> *"Aspiring Bioprocess & Biopharma R&D Associate focused on bridging upstream/downstream optimization, wet-lab protocols, and Python/R computational pipelines to scale therapeutic biologics."*
 
 ---
 
-## 🎯 Career Objective
-Bioprocess / Biopharma R&D Associate seeking to apply upstream-downstream process skills, experimental optimization, and computational data analysis (Python/R) to scale biologics and bioproducts.
+</div>
+
+## 🎯 Profile & Focus
+- 🔭 **Current Focus:** Upstream bioprocess engineering, bioinformatics workflows, and regulatory quality systems (GMP/GLP)[cite: 1].
+- 🌱 **Exploring:** Python/R for biostatistics, DoE (Design of Experiments), and NGS data pipeline automation[cite: 1, 2].
+- 🎯 **Target:** Securing premier research & biopharma industrial internships (Biocon, Syngene, CSIR)[cite: 1, 4].
+
+---
+
+## 🛠️ Skills & Tech Stack
+
+### 🧪 Wet-Lab & Bioprocess Techniques
+`Aseptic Culturing` • `Microbial & Mammalian Culture` • `Upstream Fermentation` • `Downstream Separation` • `PCR` • `SDS-PAGE` • `ELISA` • `HPLC Basics` • `Affinity Chromatography`
+
+### 💻 Computational & Data Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+- **Bioinformatics Platforms:** BLAST, SnapGene, NCBI GenBank, UniProt[cite: 1]
+- **Statistical & Modeling Tools:** Design of Experiments (DoE), Minitab, JMP[cite: 1]
+- **Regulatory Frameworks:** Good Manufacturing Practice (GMP), Good Laboratory Practice (GLP), GDP, SOP drafting[cite: 1]
 
 ---
 
 ## 🎓 Education
-- **B.Tech in Biotechnology** | * Lovely Professional University*  
-  *2027 – 2031 (Expected)*  
-  - **Target CGPA:** 8.5+  
-  - **Core Coursework:** Bioprocess Engineering, Downstream Processing, Molecular Biology, Bioinformatics, Biostatistics, Enzyme Technology.
+
+| Degree / Program | Institution | Target / Timeline | Key Coursework |
+| :--- | :--- | :--- | :--- |
+| **B.Tech Biotechnology** | Lovely Professional University | **2027 – 2031 (Expected)**<br/>*Target CGPA: 8.5+* | Bioprocess Engineering, Downstream Processing, Molecular Biology, Bioinformatics, Biostatistics, Enzyme Technology |
 
 ---
 
-## 🧪 Technical & Laboratory Skills
-- **Wet Lab & Cell Culture:** Aseptic techniques, Microbial & Mammalian cell culture, Upstream fermentation, Downstream processing, PCR, SDS-PAGE, ELISA, HPLC basics, Chromatography.
-- **Computational & Modeling:** Python, R, BLAST, SnapGene, Design of Experiments (DoE), Excel/JMP/Minitab for biostatistics.
-- **Regulatory & Compliance:** GMP, GLP, GDP documentation standards, SOP writing.
+## 🔬 Core Projects & Research Roadmap
+
+<details open>
+<summary><b>1. Bioprocess Yield Optimization (DoE Framework)</b></summary>
+<br>
+Optimization of bacterial/metabolite fermentation parameters utilizing statistical Design of Experiments to iteratively increase production yield over baseline.
+</details>
+
+<details open>
+<summary><b>2. Python Sequence Analysis & Visualization Pipeline</b></summary>
+<br>
+Automated bioinformatics script suite for FASTA parsing, GC-content analysis, restriction site identification, and alignment plots.
+</details>
+
+<details open>
+<summary><b>3. Publication Thesis & Diagnostic Prototype</b></summary>
+<br>
+End-to-end design, upstream execution, and downstream characterization targeted toward peer-reviewed biotechnology literature.
+</details>
 
 ---
 
-## 💼 Internships & Research Experience
-### **Industry Intern** | *Target: Biocon / Syngene / Serum Institute / Dr. Reddy's*
-*Summer Year 3*
-- Upstream fermentation and bioprocess quality control (QC).
-- Authored 1 process-improvement report.
-
-### **Research Intern** | *Target: CSIR / ICAR / University Research Lab*
-*Summer Year 2*
-- Cell culture, PCR protocols, and protein quantification assays.
-- Presented 1 scientific poster.
+## 📜 Key Certifications (Roadmap)
+- 🏅 **NPTEL:** Bioprocess Engineering (Elite)[cite: 1]
+- 🏅 **Data Analysis:** Python for Data Science[cite: 1]
+- 🏅 **Regulatory & Quality:** Intro to GMP/GLP & Six Sigma Green Belt[cite: 1]
 
 ---
 
-## 🔬 Projects
-- **Bioprocess Optimization via Design of Experiments (DoE):** Yield enhancement of target enzymes/metabolites evaluated against baseline metrics.
-- **Bioinformatics Sequence Pipeline:** Python-based workflow for nucleotide/protein sequence analysis and data visualization.
-- **Final-Year Project:** Bioprocess development and characterization targeting peer-reviewed journal submission.
+<div align="center">
 
----
+### 📊 GitHub Activity
 
-## 📜 Certifications & Achievements
-- **Certifications:** NPTEL Bioprocess Engineering (Elite), Python for Data Science, Introduction to GMP/GLP, Six Sigma Green Belt.
-- **Leadership:** Core Member, College Biotechnology Club (Coordinated technical workshops with 50+ participants).
+<img src="https://github-readme-stats.vercel.app/api?username=SnehaA2806&show_icons=true&theme=radical&hide_border=true" alt="Sneha's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehaA2806&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+
+</div>
