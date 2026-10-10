@@ -76,10 +76,3 @@ End-to-end design, upstream execution, and downstream characterization targeted 
 ---
 
 <div align="center">
-
-### 📊 GitHub Activity
-
-<img src="https://github-readme-stats.vercel.app/api?username=SnehaA2806&show_icons=true&theme=radical&hide_border=true" alt="Sneha's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehaA2806&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-
-</div>
