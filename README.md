@@ -3,7 +3,6 @@
 # Sneha Sahu
 ### 🧬 Bioprocess & Biopharma R&D Aspirant | Computational Biology Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Email](https://img.shields.io/badge/Email-ssneha.sahu28%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ssneha.sahu28@gmail.com)
 
 <br/>
